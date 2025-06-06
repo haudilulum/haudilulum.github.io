@@ -885,3 +885,12 @@ section.active {
     font-size: 3.5rem;
   }
 }
+
+.services,
+.resume,
+.portfolio,
+.contact,
+nav,
+#menu-icon {
+    display: none !important;
+}
